@@ -1,0 +1,5 @@
+E:\_TELERIK\JavaScript - 3\Battle-Game\BattleGame\BattleGameClient\bin\BattleGameClient.dll
+E:\_TELERIK\JavaScript - 3\Battle-Game\BattleGame\BattleGameClient\bin\BattleGameClient.pdb
+E:\_TELERIK\JavaScript - 3\Battle-Game\BattleGame\BattleGameClient\obj\Debug\BattleGameClient.csprojResolveAssemblyReference.cache
+E:\_TELERIK\JavaScript - 3\Battle-Game\BattleGame\BattleGameClient\obj\Debug\BattleGameClient.dll
+E:\_TELERIK\JavaScript - 3\Battle-Game\BattleGame\BattleGameClient\obj\Debug\BattleGameClient.pdb
